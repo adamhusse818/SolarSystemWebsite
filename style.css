@@ -1,0 +1,103 @@
+h1 {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+#beg {
+  color: rgb(45, 177, 11);
+}
+
+#warning {
+	color: white;
+	text-align: center;
+}
+
+.s-p-images {
+	width: 300px;
+}
+
+#image1 {
+	width: 500px;
+	margin-left: 420px;
+}
+
+body {
+	background-image: url(https://lh5.googleusercontent.com/proxy/9lKTUotu2bSAc-ZFHCgRW24_6IIJmxOicPoUCuf-aniypOnw8UqJdklghT75us_91I8lFwe1UCe9aZj26MkALU_luttOPrUllAyMsm0Jcw);
+}
+
+#contents {
+	color: white;
+	font-family: arial;
+	position: fixed;
+	top: 140px;
+	right: 90px;
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+.sun {
+	color: yellow;
+}
+
+.p1 {
+	color: rgb(100, 100, 100);
+}
+
+.p2 {
+	color: rgb(168, 166, 166);
+}
+
+.p3 {
+	color: rgb(0, 117, 250);
+}
+
+.p4 {
+	color: red;
+}
+
+.p5 {
+	color: rgb(19, 189, 4);
+}
+
+.p6 {
+	color: rgb(255, 102, 0);
+}
+
+.p7 {
+	color: rgb(0, 217, 255);
+}
+
+.p8 {
+	color: rgb(41, 37, 255);
+}
+
+.info {
+	color: white;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+table, td {
+	color: white;
+	font-family: monospace;
+	border-width: 5px;
+	border-color: grey;
+	border-style: outset;
+	background-color: black;
+}
+
+#whole-body {
+	margin-left: 25px;
+}
+
+#last-statement {
+	text-align: center;
+	color: white;
+	border-top-color: white;
+	border-top-width: 1px;
+	border-top-style: solid;
+	padding-top: 10px;
+}
